@@ -1,4 +1,4 @@
-# Notes about Acoustics processing
+# Notes about Acoustics Processing
 - librosa
 - pyroomacoustics
 - arlpy(acoustics toolbox)
